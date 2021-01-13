@@ -64,6 +64,7 @@
       true,
       "as-needed"
     ],
+    "object-literal-sort-keys":false,
     "quotemark": [
       true,
       "single"
@@ -147,6 +148,7 @@
       "element",
       "app",
       "kebab-case"
-    ]
+    ],
+    "interface-name": false
   }
 }
